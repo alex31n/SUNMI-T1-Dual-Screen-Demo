@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SunmiT1ScreenDemo</string>
+    <string name="send_videos">send one more video</string>
+    <string name="getphoto">acquire photo album </string>
+    <string name="menu_ppt">one side menu one side slide</string>
+    <string name="to_mydsd">open mydsd</string>
+    <string name="to_sunmi_dsc14">open sunmi.dsc14</string>
+    <string name="WX_pay">weixin pay</string>
+    <string name="menu">show menu</string>
+    <string name="welcome_img">show picture</string>
+    <string name="welcome">show welcome</string>
+    <string name="menu_videos">one side menu one side videos</string>
+    <string name="GetViceFileCacheSize">acquire vice cache file size</string>
+    <string name="clear_vice_cachefile">clear vide cache file</string>
+    <string name="paly_video">play video</string>
+    <string name="acquire_sub_resolution_ratio">acquire vice resolution</string>
+    <string name="get_sub_model">acquire vice model</string>
+    <string name="play_video_menu">one side menu one side video</string>
+    <string name="show_imgs">show Carousel figure</string>
+    <string name="clear_fileid">clear fileid</string>
+    <string name="read_sub_model">read_sub_model</string>
+    <string name="open_vice_setting">open_vice_setting</string>
+</resources>
